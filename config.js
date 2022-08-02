@@ -25,13 +25,13 @@ global.lolkey = 'Papah-Chan' //biar mudah ngegantinya semisal apikeynya expired:
 global.zenzkey = 'BagasPrdn' //ganti jadi apikey lu kalau expired
 global.wm = 'ꜱʜɪʀᴏ ɪᴋᴀꜱᴀᴋɪ ʙᴏᴛ'
 global.watermark = wm
-global.wm2 = '                     「 𝚂𝙷𝙸𝚁𝙾-𝙼𝙳 あ⁩ 」'
-global.wm3 = '𝚂𝙷𝙸𝚁𝙾-𝙼𝙳'
+global.wm2 = '                     「 HANZ-BOTZ あ⁩ 」'
+global.wm3 = 'HANZ-BOTZ'
 global.htki = '––––––『' 
 global.htka = '』––––––'
 global.media = 'https://telegra.ph/file/72168c6f1aaa90315c369.jpg'
 global.fla = 'https://www6.flamingtext.com/net-fu/proxy_form.cgi?&imageoutput=true&script=smurfs-logo&doScale=true&scaleWidth=800&scaleHeight=500&fontsize=100&text='
-global.wait = '_*tunggu sedang di proses...*_'
+global.wait = '_*di proses Tod...*_'
 global.eror = '_*Server Error*_'
 global.benar = 'Benar ✅\n'
 global.salah = 'Salah ❌\n'
